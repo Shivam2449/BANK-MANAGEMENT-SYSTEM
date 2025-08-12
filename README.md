@@ -26,8 +26,6 @@ deposit, withdrawal, and transaction tracking.
 
 
 
-<img width="1920" height="1080" alt="Screenshot 2024-10-23 192105" src="https://github.com/user-attachments/assets/0a0c77e3-75ed-4847-9f18-a1eb95da1451" />
-
 
 
 <img width="1920" height="1080" alt="Screenshot 2024-10-23 231738" src="https://github.com/user-attachments/assets/7ec14df1-2160-490a-8f1e-9561366da773" />
@@ -40,3 +38,10 @@ deposit, withdrawal, and transaction tracking.
 
 
 <img width="1920" height="1080" alt="Screenshot 2024-10-23 231755" src="https://github.com/user-attachments/assets/557c7c11-1a56-4942-a031-dd2f2a0bd7f8" />
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2024-10-23 192105" src="https://github.com/user-attachments/assets/0a0c77e3-75ed-4847-9f18-a1eb95da1451" />
+
